@@ -30,7 +30,7 @@ SECRET_KEY = 'Uaa63a3f5feff2725536db7d81f09c929'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ALLOWED_HOSTS = ['b6d5674d.ngrok.io', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ALLOWED_HOSTS = ['*']
 #2020.0406 ASISlinebot  for ASIS_MySQL --- ASISlinebot
 ##D:\pyStudy\jjlite (ASIS-S313-12)
 
